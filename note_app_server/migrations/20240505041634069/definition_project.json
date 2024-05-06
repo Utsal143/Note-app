@@ -1,0 +1,15 @@
+{
+  "moduleName": "note_app",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240115074235544"
+    },
+    {
+      "module": "note_app",
+      "version": "20240505041100824"
+    }
+  ],
+  "migrationApiVersion": 1
+}

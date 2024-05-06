@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8090,
+            "driver": "PostgreSQL",
+            "name": "mydatabase",
+            "database": "note_app",
+            "username": "postgres",
+            "password": "cgSS2jYlTq_HXvYTqZc4eF2zXBng5cXJ"
+        }
+    ]
+}

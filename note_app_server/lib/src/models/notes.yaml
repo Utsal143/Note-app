@@ -1,0 +1,4 @@
+class: Notes
+table: notes
+fields:
+  text: String
